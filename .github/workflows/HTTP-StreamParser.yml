@@ -1,0 +1,18 @@
+name : HTTP-StreamParser
+
+on:
+  push:
+  schedule:
+    - cron: 0 12 * * *
+
+jobs:
+  perl:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: perl -V
+        run: perl -V
+      - name: Install module
+        run: curl -L https://cpanmin.us | perl - --configure-timeout=1920 HTTP::StreamParser
