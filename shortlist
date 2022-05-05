@@ -1,0 +1,6 @@
+Adapter::Async
+Net::Async::Github
+Net::Async::Slack
+Protocol::PostgreSQL
+TAP::Formatter::Event
+WebService::Bitcoin::BTCe
