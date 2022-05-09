@@ -78,24 +78,24 @@ Ryu
 Ryu::Async
 TAP::Formatter::Event
 TAP::Harness::Async
-Tickit::Builder
-Tickit::DSL
-Tickit::Widget::Breadcrumb
-Tickit::Widget::Calendars
-Tickit::Widget::Decoration
-Tickit::Widget::Figlet
-Tickit::Widget::FileViewer
-Tickit::Widget::Layout::Desktop
-Tickit::Widget::Layout::Relative
-Tickit::Widget::LogAny
-Tickit::Widget::Progressbar
-Tickit::Widget::SparkLine
-Tickit::Widget::Statusbar
-Tickit::Widget::Table
-Tickit::Widget::Table::Paged
-Tickit::Widget::Tree
-Tickit::Widget::VHBox
-Tickit::WidgetRole::Movable
+Tickit::Builder libtool-bin
+Tickit::DSL libtool-bin
+Tickit::Widget::Breadcrumb libtool-bin
+Tickit::Widget::Calendars libtool-bin
+Tickit::Widget::Decoration libtool-bin
+Tickit::Widget::Figlet libtool-bin
+Tickit::Widget::FileViewer libtool-bin
+Tickit::Widget::Layout::Desktop libtool-bin
+Tickit::Widget::Layout::Relative libtool-bin
+Tickit::Widget::LogAny libtool-bin
+Tickit::Widget::Progressbar libtool-bin
+Tickit::Widget::SparkLine libtool-bin
+Tickit::Widget::Statusbar libtool-bin
+Tickit::Widget::Table libtool-bin
+Tickit::Widget::Table::Paged libtool-bin
+Tickit::Widget::Tree libtool-bin
+Tickit::Widget::VHBox libtool-bin
+Tickit::WidgetRole::Movable libtool-bin
 Time::Checkpoint::Sequential
 Variable::Disposition
 WebService::Amazon::DynamoDB
