@@ -17,6 +17,6 @@ jobs:
       - name: apt-get update
         run: sudo apt-get update
       - name: Install non alienazed dependencies
-        run: sudo apt-get install libtool-bin
+        run: sudo apt-get install libtool-bin pkg-config
       - name: Install module
         run: curl -L https://cpanmin.us | perl - --configure-timeout=1920 Tickit::Widget::LogAny

@@ -78,24 +78,24 @@ Ryu
 Ryu::Async
 TAP::Formatter::Event
 TAP::Harness::Async
-Tickit::Builder libtool-bin
-Tickit::DSL libtool-bin
-Tickit::Widget::Breadcrumb libtool-bin
-Tickit::Widget::Calendars libtool-bin
-Tickit::Widget::Decoration libtool-bin
-Tickit::Widget::Figlet libtool-bin
-Tickit::Widget::FileViewer libtool-bin
-Tickit::Widget::Layout::Desktop libtool-bin
-Tickit::Widget::Layout::Relative libtool-bin
-Tickit::Widget::LogAny libtool-bin
-Tickit::Widget::Progressbar libtool-bin
-Tickit::Widget::SparkLine libtool-bin
-Tickit::Widget::Statusbar libtool-bin
-Tickit::Widget::Table libtool-bin
-Tickit::Widget::Table::Paged libtool-bin
-Tickit::Widget::Tree libtool-bin
-Tickit::Widget::VHBox libtool-bin
-Tickit::WidgetRole::Movable libtool-bin
+Tickit::Builder libtool-bin pkg-config
+Tickit::DSL libtool-bin pkg-config
+Tickit::Widget::Breadcrumb libtool-bin pkg-config
+Tickit::Widget::Calendars libtool-bin pkg-config
+Tickit::Widget::Decoration libtool-bin pkg-config
+Tickit::Widget::Figlet libtool-bin pkg-config
+Tickit::Widget::FileViewer libtool-bin pkg-config
+Tickit::Widget::Layout::Desktop libtool-bin pkg-config
+Tickit::Widget::Layout::Relative libtool-bin pkg-config
+Tickit::Widget::LogAny libtool-bin pkg-config
+Tickit::Widget::Progressbar libtool-bin pkg-config
+Tickit::Widget::SparkLine libtool-bin pkg-config
+Tickit::Widget::Statusbar libtool-bin pkg-config
+Tickit::Widget::Table libtool-bin pkg-config
+Tickit::Widget::Table::Paged libtool-bin pkg-config
+Tickit::Widget::Tree libtool-bin pkg-config
+Tickit::Widget::VHBox libtool-bin pkg-config
+Tickit::WidgetRole::Movable libtool-bin pkg-config
 Time::Checkpoint::Sequential
 Variable::Disposition
 WebService::Amazon::DynamoDB
