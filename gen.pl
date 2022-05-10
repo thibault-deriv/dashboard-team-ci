@@ -6,9 +6,8 @@
 
 my $startyml = << "END";
 on:
-  push:
   schedule:
-    - cron: 0 12 * * *
+    - cron: 42 3 * * 1
 
 jobs:
   perl:
